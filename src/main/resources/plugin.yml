@@ -1,0 +1,7 @@
+name: CmiApiTest
+version: '${version}'
+main: dev.the456gamer.cmiapitest.CmiApiTest
+api-version: 1.19
+depend: [ CMI ]
+authors: [ The456gamer ]
+description: Test Plugin for CMI api
